@@ -13,4 +13,4 @@
 [submodule "upp"]
   path = upp
   url = https://github.com/benjamin-cash/UPP
-  branch = feature/container
+  branch = feature/SFS_container
